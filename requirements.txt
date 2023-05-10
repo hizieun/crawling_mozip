@@ -1,0 +1,9 @@
+selenium
+bs4
+requests
+urllib3
+numpy
+pytz
+six
+webdriver_manager
+tqdm
